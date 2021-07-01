@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Evan Daley!
+
+I'm a Software Engineer and Jack of All Trades. Highly skilled with JavaScript, AWS, Docker, and Relational Databases. 
+
+Please follow me on Github and drop me a line at daley.evan@gmail.com.
