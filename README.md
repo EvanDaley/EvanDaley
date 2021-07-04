@@ -1,4 +1,4 @@
-### Hi there, I am Evan Daley!
+### Hi there, I am Evan!
 
 I'm an experienced developer, leader and architect. My strongest proficiencies are JavaScript, Vue, Rails, Laravel, AWS, Docker, and SQL.
 
