@@ -1,7 +1,6 @@
 ### Hi there, I am Evan!
 
-Hi, I'm Evan Daley. I'm an experienced developer, leader and architect. 
-I fell in love with programming at a pretty young age and have pursued it diligently for the last fifteen years.
+I'm an experienced developer, leader and architect. I fell in love with programming at a pretty young age and have pursued it diligently for the last fifteen years.
 
 I've had the privilege of working for a few really cool tech companies in the Pacific Northwest.
 At 
