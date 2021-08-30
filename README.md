@@ -2,7 +2,7 @@
 
 I'm an experienced developer, leader and architect.
 
-Recently, I've had the privilege of working for a few really cool tech companies.
+Recently, I've had the privilege of working for a few really cool tech companies in the Pacific Northwest.
 At 
 [Kaspien](https://www.kaspien.com/software/)
 our Saas systems drove over *1B* in sales.
