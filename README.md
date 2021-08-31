@@ -5,10 +5,10 @@ I'm an experienced developer, leader and architect.
 Recently, I've had the privilege of working for a few really cool tech companies in the Pacific Northwest.
 At 
 [Kaspien](https://www.kaspien.com/software/)
-we developed Saas systems that drove over *1B* in sales.
+we developed Saas systems that drove over **1B** in sales.
 At 
 [Two Barrels](https://www.twobarrels.com/)
-our software has helped create over *1M* companies in the US. 
+our software has helped create over **1M** companies in the US. 
 During weekends at 
 [Nucamp](https://www.nucamp.co/)
 I've led over 60 workshops, instructing students on the basics and best practices of MERN software development.
