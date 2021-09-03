@@ -1,6 +1,6 @@
 ### Hi there, I am Evan!
 
-I'm an experienced developer, leader and architect, working remotely from the Pacific Northwest.
+I'm an experienced developer, leader and architect working remotely from the Pacific Northwest.
 
 Recently, I've had the privilege of working for a few really cool tech companies:
 At 
