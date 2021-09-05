@@ -3,7 +3,7 @@
 I'm an experienced developer, leader and architect working remotely from the Pacific Northwest.
 
 Recently, I've had the privilege of working for a few really cool tech companies:
-At 
+at 
 [Kaspien](https://www.kaspien.com/software/)
 we developed Saas systems that drove over **1B** in sales and at
 [Two Barrels](https://www.twobarrels.com/)
