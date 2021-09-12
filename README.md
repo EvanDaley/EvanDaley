@@ -6,7 +6,7 @@ At
 [Kaspien](https://www.kaspien.com/software/)
 I helped develop Saas systems that drive over **1B** in sales. At
 [Two Barrels](https://www.twobarrels.com/)
-I'm building software that has helped create over **1M** companies in the US. 
+I'm building software that has already helped create over **1M** companies in the US. 
 During weekends at 
 [Nucamp](https://www.nucamp.co/)
 I've led over 60 workshops, instructing students on the basics and best practices of MERN software development.
