@@ -4,7 +4,7 @@ I'm an experienced developer, leader and architect working remotely from the Pac
 
 At
 [Kaspien](https://www.kaspien.com/software/)
-I helped develop Saas systems that drive over **1B** in sales. At
+I helped develop Saas systems that have driven over **1B** in sales. At
 [Two Barrels](https://www.twobarrels.com/)
 I'm building software that has already helped create over **1M** companies in the US. 
 During weekends at 
