@@ -2,10 +2,11 @@
 
 I'm an experienced developer, leader and architect working remotely from the Pacific Northwest.
 
-My main focus these days is fullstack software development, primarly for Saas-driven businesses.
 I love building digital experiences, working with big data, and solving complex challenges.
 My strongest proficiencies right now are React, Rails, Vue, AWS, docker, and anything sql -
 but I invest a lot of time in learning other stacks and I've worked with quite a few professionally.
+My main focus these days is fullstack software development, primarly for Saas-driven businesses.
+
 
 At
 [Kaspien](https://www.kaspien.com/software/)
