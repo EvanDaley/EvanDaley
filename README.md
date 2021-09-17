@@ -1,7 +1,5 @@
 ### Hi there, I am Evan!
 
-I'm an experienced developer, leader and software architect living in the Pacific Northwest.
-
 I love building digital experiences, working with big data, and solving complex challenges.
 My strongest proficiencies right now are React, Rails, Vue, AWS, docker, and anything sql -
 but I've worked with quite a few other stacks professionally.
