@@ -1,6 +1,6 @@
 ### Hi there, I am Evan!
 
-I creating software and solving complex challenges.
+I love creating software and solving complex challenges.
 My strongest proficiencies are Laravel, Rails, Vue, AWS, React docker, and anything sql -
 but I've worked with quite a few other stacks professionally.
 My main focus these days is fullstack software development, primarly for Saas-driven businesses.
