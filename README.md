@@ -12,10 +12,10 @@ I helped develop Saas systems that have driven over **1B** in sales. At
 our software has already helped form/incorporate over **1M** companies in the US. 
 
 
-Right now my primary focus is leading fullstack software teams for Saas-driven companies.
+Right now my primary focus is leading fullstack software teams for Saas-driven companies. Please follow me on Github and drop me a line at daley.evan@gmail.com.
+
 
 <!-- During weekends at [Nucamp](https://www.nucamp.co/) I've led over 60 workshops, instructing students on the basics and best practices of MERN software development. --> 
 
 
 
-Please follow me on Github and drop me a line at daley.evan@gmail.com.
