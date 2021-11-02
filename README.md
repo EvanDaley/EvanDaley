@@ -3,7 +3,6 @@
 I love creating software and solving complex challenges.
 My strongest proficiencies are Laravel, Rails, Vue, AWS, React docker, and anything sql -
 but I've worked with quite a few other stacks professionally.
-My main focus these days is fullstack software development, primarly for Saas-driven businesses.
 
 
 At
@@ -14,6 +13,9 @@ I'm building software that has already helped create over **1M** companies in th
 During weekends at 
 [Nucamp](https://www.nucamp.co/)
 I've led over 60 workshops, instructing students on the basics and best practices of MERN software development.
+
+
+My primary focus is leading fullstack software teams for Saas-driven companies.
 
 
 Please follow me on Github and drop me a line at daley.evan@gmail.com.
