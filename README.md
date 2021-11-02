@@ -9,8 +9,10 @@ At
 [Kaspien](https://www.kaspien.com/software/)
 I helped develop Saas systems that have driven over **1B** in sales. At
 [Two Barrels](https://www.twobarrels.com/)
-I'm building software that has already helped create over **1M** companies in the US. 
-My primary focus is leading fullstack software teams for Saas-driven companies.
+I built software that has already helped form/incorporate **1M** companies in the US. 
+
+
+Right now my primary focus is leading fullstack software teams for Saas-driven companies.
 
 <!-- During weekends at [Nucamp](https://www.nucamp.co/) I've led over 60 workshops, instructing students on the basics and best practices of MERN software development. --> 
 
