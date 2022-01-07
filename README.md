@@ -10,7 +10,7 @@ At
 [Kaspien](https://www.kaspien.com/software/)
 I helped develop Saas systems that have driven over **1B** in sales. At
 [Two Barrels](https://www.twobarrels.com/)
-we built software that has already helped form/incorporate over **1M** companies in the US. 
+we built software that has already helped form/incorporate over **1M** llcs/corporations in the US. 
 
 
 Right now my primary focus is leading fullstack software teams for Saas-driven companies. Please follow me on Github and drop me a line at daley.evan@gmail.com.
