@@ -1,6 +1,6 @@
 ### Hi there, I am Evan Daley!
 
-I'm a lead developer and software architect working remotely from Spokane Washington. I love building digital experiences, working with big data, and solving complex challenges.
+I'm a lead developer working remotely from Spokane Washington. I love building systems, working with big data, and solving complex challenges.
 
 My strongest proficiencies are Laravel, Rails, Vue, AWS, React docker, and anything sql -
 but I've worked with quite a few other stacks professionally.
