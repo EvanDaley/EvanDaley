@@ -18,5 +18,3 @@ Right now my primary focus is leading fullstack software teams for Saas-driven c
 
 <!-- During weekends at [Nucamp](https://www.nucamp.co/) I've led over 60 workshops, instructing students on the basics and best practices of MERN software development. --> 
 
-
-
